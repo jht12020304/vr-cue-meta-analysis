@@ -1,5 +1,7 @@
 # VR drug-cue craving meta-analysis — analysis code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24183017.svg)](https://doi.org/10.5281/zenodo.24183017)
+
 Three-level random-effects meta-analysis (REML, `metafor::rma.mv`) of VR drug-cue vs neutral-cue craving
 (Hedges' g), 30 cohorts / 55 contrasts, with cluster-robust CR2 inference and Satterthwaite df (`clubSandwich`).
 
