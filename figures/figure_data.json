@@ -1,10 +1,4 @@
 {
-  "source_class": "USER_SUPPLIED_RECONSTRUCTION_AND_MANUSCRIPT_REFERENCES",
-  "computed_values_source": "results/results.csv",
-  "computed_values_source_sha256": "eecfdd5e9e84549ea898c753c7165d72d8f29a05ef734d7c28ce56ade68e51af",
-  "reference_values_source": "澤宇_meta_chun_1020_回覆_1023_結果重跑_1024.docx Table S1 and supplied s36.py",
-  "reference_values_source_sha256": "61b72eb854471908600416908752c0330d727de0b5a195fc674cd0187caa7292",
-  "not_formal_original_rerun": true,
   "figures": [
     {
       "name": "FigS3",

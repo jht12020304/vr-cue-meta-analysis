@@ -37,6 +37,3 @@ Prediction intervals are model-based (`predict.rma`), not CR2-calibrated.
 The reconstruction gives baseline g = 0.68 [0.49, 0.88], df 28.1 vs the manuscript's 0.68 [0.49, 0.87], df 28.2.
 Results here are therefore not a formal reproduction of the manuscript analysis.
 In Figures S3/S6, black rows are computed by this code; gray rows are values quoted from the manuscript.
-
-Verified 2026-11-13: `results/results.csv` matches the 2026-10-24 template rerun exactly (max |diff| = 0),
-and regenerated S3/S6 PNGs are pixel-identical.

@@ -1,6 +1,5 @@
 # VR drug-cue craving meta-analysis: three-level REML model, CR2 robust inference.
 # Usage (from repo root): Rscript R/meta_analysis.R [data/analysis_input_55.csv] [results/]
-# Consolidates rerun_template.R + export_template_precision.R (2026-10-24); same models, same numbers.
 suppressMessages({ library(metafor); library(clubSandwich) })
 
 args    <- commandArgs(trailingOnly = TRUE)
