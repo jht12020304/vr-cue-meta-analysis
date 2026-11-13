@@ -1,0 +1,9 @@
+{
+  "title": "VR drug-cue craving meta-analysis: analysis code",
+  "upload_type": "software",
+  "description": "Three-level random-effects meta-analysis (REML, metafor) of VR drug-cue vs neutral-cue craving (Hedges' g), 30 cohorts / 55 contrasts, with CR2 cluster-robust inference (clubSandwich). Includes input data, R models and scripts for Supplementary Figures S3/S6.",
+  "creators": [{"name": "jht12020304"}],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": ["meta-analysis", "virtual reality", "cue reactivity", "craving", "metafor"]
+}
